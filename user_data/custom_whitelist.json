@@ -1,0 +1,9 @@
+{
+    "whitelist": [
+        "BTC/USDT",
+        "ETH/USDT",
+        "ADA/USDT",
+        "XAI/USDT",
+        "STORJ/USDT"
+    ]
+}
